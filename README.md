@@ -15,4 +15,4 @@ The dataset was compiled from multiple publicly available sources. Variable defi
 
 ## License
 
-Code: [MIT License](LICENSE). Data: [CC BY 4.0](LICENSE-data). Original source data remain subject to their providers' terms.
+Code: [MIT License](LICENSE). Data: [CC BY 4.0](LICENSE_data). Original source data remain subject to their providers' terms.

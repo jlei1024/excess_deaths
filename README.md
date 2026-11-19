@@ -6,7 +6,7 @@ Data and code for:
 
 ## Contents
 
-- `data/analysis_data.RData` — compiled analysis dataset
+- `analysis_data.RData` — compiled analysis dataset
 - `code/` — R and Stan code for the analysis
 
 ## Data
